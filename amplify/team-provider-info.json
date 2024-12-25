@@ -1,0 +1,40 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecofriendly-dev-6ac73-authRole",
+      "UnauthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-dev-6ac73-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-dev-6ac73-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ecofriendly-dev-6ac73-deployment",
+      "UnauthRoleName": "amplify-ecofriendly-dev-6ac73-unauthRole",
+      "StackName": "amplify-ecofriendly-dev-6ac73",
+      "StackId": "arn:aws:cloudformation:us-east-1:980921730659:stack/amplify-ecofriendly-dev-6ac73/8ef373b0-c24b-11ef-a59a-1298931ddbb7",
+      "AmplifyAppId": "d2rm5tjyxdklrq",
+      "EnvironmentName": "dev"
+    },
+    "categories": {
+      "auth": {
+        "ecofriendlyf8516e96": {}
+      }
+    }
+  },
+  "eco": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecofriendly-eco-ad34b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-eco-ad34b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::980921730659:role/amplify-ecofriendly-eco-ad34b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ecofriendly-eco-ad34b-deployment",
+      "UnauthRoleName": "amplify-ecofriendly-eco-ad34b-unauthRole",
+      "StackName": "amplify-ecofriendly-eco-ad34b",
+      "StackId": "arn:aws:cloudformation:us-east-1:980921730659:stack/amplify-ecofriendly-eco-ad34b/f501bd90-c257-11ef-bd56-0afffe28ddcf",
+      "AmplifyAppId": "d2rm5tjyxdklrq",
+      "EnvironmentName": "eco"
+    },
+    "categories": {
+      "auth": {
+        "ecofriendlyf8516e96": {}
+      }
+    }
+  }
+}

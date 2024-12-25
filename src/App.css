@@ -1,0 +1,22 @@
+body {
+  background-image: url('./assets/EcofriendlyBackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.App-header {
+  background: rgba(255, 255, 255, 0.9); /* Optional semi-transparent background */
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+img {
+  display: block;
+}
+
